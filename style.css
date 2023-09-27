@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+.navbar-brand {
+  color: #db0000;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.home-hero {
+  padding: 10%;
+}
+
+img {
+  max-width: 300px;
+  display: block;
+  text-align: center;
+}
